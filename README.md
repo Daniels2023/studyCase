@@ -1,4 +1,4 @@
-# Study Case focusing on creating index, categories and BI analyses.
+# Study Case. Creating index, categories and BI analyses.
 
 **This study case has come to me as a question of what would be my approach for creating indexes, categories and BI analyses during a database implementation.**
 
