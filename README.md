@@ -61,6 +61,7 @@ Then a SQL query to create the tables in the database:
 ![PgSQL-2](https://github.com/Daniels2023/studyCase/assets/124798004/3695ca3d-5911-4fca-ad50-c8928b1da5fa)
 
 
+More steps have to be done after the creation of a database as mentioned before, this is a more complex step and it is not going to be covered in this study case.
 
 ## Final step - BI Analyses
 
@@ -78,3 +79,7 @@ In this overview analysis, we can observe:
 ***4 - The company had an increase in Sales of about 25.89% from 2022 to 2023.***
 ***5 - Bob is the second top best seller with a difference of less than AUD $100.00.***
 ***6 - The products that also have a significant sold quantity were BA304_6_40x40 and BA 316_3_20x20, both with respectively 3,600 and 2,588 sold quantities.***
+
+
+***The data, analysis and any information in this study should not be considered real-world data***
+***Thanks for reading***
