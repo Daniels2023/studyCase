@@ -23,7 +23,7 @@ In this sample, we can see that we already have the type of product (BA 304 and 
 ## Step 2
 
 
-To create an index with type + thickness + size I imported the Excel spreadsheet into Python and use the library pandas to manipulate and create the index. Here I also observed that a category would also be created, as I already knew, these products were angle bars, so I created a new column with that category. This is the final result for product 304:
+To create an index with type + thickness + size I imported the Excel spreadsheet into Python and use the library pandas to manipulate and create the index. Here I also observed that a category could also be created, as I already knew, these products were angle bars, so I created a new column with that category. This is the final result for product 304:
 
 
 ![image](https://github.com/Daniels2023/studyCase/assets/124798004/1de37596-43fc-4da1-83c5-576fddd5ddb3)
