@@ -1,6 +1,6 @@
-# Study Case. Creating index, categories and BI analyses.
+# Study Case. Creating index, categories and BI analysis.
 
-**This study case has come to me as a question of what would be my approach for creating indexes, categories and BI analyses during a database implementation.**
+**This study case has come to me as a question of what would be my approach for creating indexes, categories and BI analysis during a database implementation.**
 
 
 ## Step 1
@@ -35,7 +35,7 @@ The same was done for product 316:
 ![image](https://github.com/Daniels2023/studyCase/assets/124798004/8ef1da54-4763-4a62-b5a6-d246731aec1d)
 
 
-So now have a new index and distinct categories for both products, which would be great for further BI analyses.
+So now have a new index and distinct categories for both products, which would be great for further BI analysis.
 
 
 ## Advanced step - Creating a database.
@@ -66,7 +66,7 @@ More steps have to be done after the creation of a database as mentioned before,
 ## Final step - BI Analysis
 
 
-BI analyses can be achieved with or without an integrated database, if data analyses start to play an important role in the company so, it is recommended a unified database as it can provide data consistency, standardization and accessibility. But in any circumstance, Power BI can connect with any dataset from different data sources. In this study case, I provided a simple sales overview of everything we cover until here so far.
+BI analysis can be achieved with or without an integrated database, if data analysis start to play an important role in the company so, it is recommended a unified database as it can provide data consistency, standardization and accessibility. But in any circumstance, Power BI can connect with any dataset from different data sources. In this study case, I provided a simple sales overview of everything we cover until here so far.
 
 
 ![PowerBI overview](https://github.com/Daniels2023/studyCase/assets/124798004/77beb31a-1196-4054-88ae-3c6815a9e98f)
