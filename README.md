@@ -47,7 +47,7 @@ For this purpose, I would recommend a data engineering consultant to have a look
 ![ERD_StudyCase](https://github.com/Daniels2023/studyCase/assets/124798004/f090e47d-b808-4a28-b277-041e2cb7665b)
 
 
-Above we can see 3 departments connected all with your own index column and descriptive columns, this diagram could be further uploaded into a relational database like PostgreSQL.
+Above we can see 3 departments connected all with your index column and descriptive columns, this diagram could be further uploaded into a relational database like PostgreSQL.
 
 Below is an example of how that could be achieved:
 
@@ -63,7 +63,7 @@ Then a SQL query to create the tables in the database:
 
 More steps have to be done after the creation of a database as mentioned before, this is a more complex step and it is not going to be covered in this study case.
 
-## Final step - BI Analyses
+## Final step - BI Analysis
 
 
 BI analyses can be achieved with or without an integrated database, if data analyses start to play an important role in the company so, it is recommended a unified database as it can provide data consistency, standardization and accessibility. But in any circumstance, Power BI can connect with any dataset from different data sources. In this study case, I provided a simple sales overview of everything we cover until here so far.
@@ -73,11 +73,11 @@ BI analyses can be achieved with or without an integrated database, if data anal
 
 
 In this overview analysis, we can observe:
-***1 - The company achieved so far AUD $40k in Total Sales.***
+***1 - The company achieved so far AUD 40k in Total Sales.***
 ***2 - Thomas is the top seller.***
 ***3 - BA304_10_100x100 is the most chosen by the customers.***
 ***4 - The company had an increase in Sales of about 25.89% from 2022 to 2023.***
-***5 - Bob is the second top best seller with a difference of less than AUD $100.00.***
+***5 - Bob is the second top best seller with a difference of less than AUD 100.00.***
 ***6 - The products that also have a significant sold quantity were BA304_6_40x40 and BA 316_3_20x20, both with respectively 3,600 and 2,588 sold quantities.***
 
 
