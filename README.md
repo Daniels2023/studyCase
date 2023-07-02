@@ -89,6 +89,7 @@ In this **Power BI** overview analysis, we can observe:
 ***6 - The products that also have a significant sold quantity were BA304_6_40x40 and BA 316_3_20x20, both with respectively 3,600 and 2,588 sold quantities.***
 
 
-* *The data, analysis and any information in this study should not be considered real-world data*
+
+"*" *The data, analysis and any information in this study should not be considered real-world data*
 
 Thanks for reading
