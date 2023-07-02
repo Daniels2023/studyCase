@@ -35,10 +35,19 @@ The same was done for product 316:
 ![image](https://github.com/Daniels2023/studyCase/assets/124798004/8ef1da54-4763-4a62-b5a6-d246731aec1d)
 
 
-So now, we have a new index and distinct categories for both products, which would be great for further BI analyses.
+So now have a new index and distinct categories for both products, which would be great for further BI analyses.
 
 
 ## Advanced step - Creating a database.
 
 
+For this purpose, I would recommend a data engineering consultant to have a look at the system, and the dataflow and suggest what database would be a great fit for company goals. This involves performance, growth expectations, training the team to use the new database, documentation, etc. It is not a simple project but it can be achieved with the right management approach and mindset, and once completed the result would be a unified data centre for inventory, sales, human resources, etc. As I can demonstrate below, here is just a simple example of how 3 departments (inventory, sales, and human resources) could be integrated with a single database environment:
+
+
+![ERD_StirlingCase](https://github.com/Daniels2023/studyCase/assets/124798004/d9cccd25-0bfe-404c-841c-1bf6d67b49c0)
+
+
+Above we can see a simple approach of inventory with two products (304 and 316), that it would be condensed in a 
+
+![PgSQL-1](https://github.com/Daniels2023/studyCase/assets/124798004/621066e6-bedb-48da-8987-23b0b9dfef84)
 
