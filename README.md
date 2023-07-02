@@ -58,7 +58,8 @@ Below is an example of how that could be achieved:
 Then a SQL query to create the table in the database:
 
 
-![PgSQL-2](https://github.com/Daniels2023/studyCase/assets/124798004/58ac4649-54ca-42ad-a44a-8af6a81943e0)
+![PgSQL-2](https://github.com/Daniels2023/studyCase/assets/124798004/3695ca3d-5911-4fca-ad50-c8928b1da5fa)
+
 
 
 ## Final step - BI Analyses
