@@ -44,7 +44,8 @@ So now have a new index and distinct categories for both products, which would b
 For this purpose, I would recommend a data engineering consultant to have a look at the system, and the dataflow and suggest what database would be a great fit for company goals. This involves performance, growth expectations, training the team to use the new database, documentation, etc. It is not a simple project but it can be achieved with the right management approach and mindset, and once completed the result would be a unified data centre for inventory, sales, human resources, etc. As I can demonstrate below, here is just a simple example of how 3 departments (inventory, sales, and human resources) could be integrated with a single database environment:
 
 
-![ERD_StudyCase](https://github.com/Daniels2023/studyCase/assets/124798004/f090e47d-b808-4a28-b277-041e2cb7665b)
+![ERD_StudyCase](https://github.com/Daniels2023/studyCase/assets/124798004/a8bf9eac-ea11-4ee1-9be5-fcc2ecebd5dc)
+
 
 
 Above we can see 3 departments connected all with your index column and descriptive columns, this diagram could be further uploaded into a relational database like PostgreSQL.
