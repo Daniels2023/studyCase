@@ -55,7 +55,7 @@ Below is an example of how that could be achieved:
 ![PgSQL-1](https://github.com/Daniels2023/studyCase/assets/124798004/2dc53b2c-8209-409e-a082-2ddbe086015b)
 
 
-Then a SQL query to create the table in the database:
+Then a SQL query to create the tables in the database:
 
 
 ![PgSQL-2](https://github.com/Daniels2023/studyCase/assets/124798004/3695ca3d-5911-4fca-ad50-c8928b1da5fa)
@@ -65,3 +65,16 @@ Then a SQL query to create the table in the database:
 ## Final step - BI Analyses
 
 
+BI analyses can be achieved with or without an integrated database, if data analyses start to play an important role in the company so, it is recommended a unified database as it can provide data consistency, standardization and accessibility. But in any circumstance, Power BI can connect with any dataset from different data sources. In this study case, I provided a simple sales overview of everything we cover until here so far.
+
+
+![PowerBI overview](https://github.com/Daniels2023/studyCase/assets/124798004/77beb31a-1196-4054-88ae-3c6815a9e98f)
+
+
+In this overview analysis, we can observe:
+***1 - The company achieved so far AUD $40k in Total Sales.***
+***2 - Thomas is the top seller.***
+***3 - BA304_10_100x100 is the most chosen by the customers.***
+***4 - The company had an increase in Sales of about 25.89% from 2022 to 2023.***
+***5 - Bob is the second top best seller with a difference of less than AUD $100.00.***
+***6 - The products that also have a significant sold quantity were BA304_6_40x40 and BA 316_3_20x20, both with respectively 3,600 and 2,588 sold quantities.***
