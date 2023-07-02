@@ -67,7 +67,7 @@ More steps have to be done after the creation of a database as mentioned before,
 ## Final step - BI Analysis
 
 
-BI analysis can be achieved with or without an integrated database, if data analysis start to play an important role in the company so, it is recommended a unified database as it can provide data consistency, standardization and accessibility. But in any circumstance, Power BI can connect with any dataset from different data sources. In this study case, I provided a simple sales overview of everything we cover until here so far.
+BI analysis can be achieved with or without an integrated database, if data analysis starts to play an important role in the company so, it is recommended a unified database as it can provide data consistency, standardization and accessibility. But in any circumstance, Power BI can connect with any dataset from different data sources. In this study case, I provided a simple sales overview of everything we cover until here so far.
 
 
 ![PowerBI overview](https://github.com/Daniels2023/studyCase/assets/124798004/77beb31a-1196-4054-88ae-3c6815a9e98f)
@@ -90,6 +90,6 @@ In this **Power BI** overview analysis, we can observe:
 
 
 
-"*" *The data, analysis and any information in this study should not be considered real-world data*
+"*" *The data, analysis and any information in this study should not be considered real-world data* "*"
 
 Thanks for reading
