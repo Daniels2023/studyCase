@@ -73,14 +73,14 @@ BI analysis can be achieved with or without an integrated database, if data anal
 ![PowerBI overview](https://github.com/Daniels2023/studyCase/assets/124798004/77beb31a-1196-4054-88ae-3c6815a9e98f)
 
 
-In this Power BI overview analysis, we can observe:
+In this **Power BI** overview analysis, we can observe:
 
 
 ***1 - The company achieved so far AUD 40k in Total Sales.***
 
 ***2 - Thomas is the top seller.***
 
-***3 - BA304_10_100x100 is the most chosen by the customers.***
+***3 - BA304_10_100x100 is the most chosen product by the customers.***
 
 ***4 - The company had an increase in Sales of about 25.89% from 2022 to 2023.***
 
@@ -89,5 +89,6 @@ In this Power BI overview analysis, we can observe:
 ***6 - The products that also have a significant sold quantity were BA304_6_40x40 and BA 316_3_20x20, both with respectively 3,600 and 2,588 sold quantities.***
 
 
-***The data, analysis and any information in this study should not be considered real-world data***
-***Thanks for reading***
+* *The data, analysis and any information in this study should not be considered real-world data*
+
+Thanks for reading
